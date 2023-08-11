@@ -39,5 +39,3 @@ Esta política pode ser atualizada periodicamente para refletir mudanças em nos
 Para dúvidas sobre nossa política de privacidade e segurança relacionadas ao serviço Cassian, entre em contato pelo discord: e0q
 
 Ao utilizar o serviço Cassian, você concorda com os termos e condições descritos nesta Política de Privacidade e Segurança.
-
-*Nota: Este é um exemplo fictício de uma política de privacidade e segurança, destinado a ilustrar o uso do serviço "Cassian" em conjunto com a tecnologia MongoDB. Certifique-se de consultar um advogado ou especialista em privacidade para criar uma política específica e adequada ao seu serviço.*
